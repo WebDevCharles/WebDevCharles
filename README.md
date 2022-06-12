@@ -4,7 +4,7 @@ Hi there 👋 , I’m Charles Hall!
 )](https://charleshallportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charlesunfiltered)
 
-I'm a Software Engineer based in Wilmington, NC. Technologies listed in the toolbox below.
+I'm a Software Engineer based in Wilmington, NC. My common-use technologies are listed in the toolbox below - and I'm always ready and willing to add to my arsenal!
 
 I have a passion for solving tough problems by creating efficient, clean code. I specialize in C# and ASP.NET development and love to write useful, impactful applications for a variety of industries. To see my recent projects and learn more about me, visit my portfolio and/or connect with me on LinkedIn. Thank you!
 
